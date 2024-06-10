@@ -470,7 +470,7 @@ Concierge
        font-size: 30px;" class="slide-up"><strong>XR mode</strong> <br>
           Immerses users in a<br>unique atmosphere of <br>interacting with people<br>in their surroundings.</p>
    
-    <video src="XR_Japan_1440_web.mp4" id="railybig" autoplay muted></video>
+    <video src="https://azure.raily.app/videos/XR_AirportDemo-1440_web.mp4" id="railybig" autoplay muted></video>
 </div>
 
 
