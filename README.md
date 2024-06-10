@@ -25,6 +25,7 @@
 
 <ul>
 	<li>In the features section, I presumed that cards were exclusively implemented in the desktop version, while the mobile version was represented by a PNG file. As it turns out, this assumption precisely matches their approach.</li>
+    	<li>To ensure compatibility with Vercel, the HTML and CSS version of the code was deployed. Vercel does not support the direct deployment of Laravel projects. Consequently, a separate repository was established specifically for the Laravel project.</li>
 </ul>
 
 <p>&nbsp;</p>
