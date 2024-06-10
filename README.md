@@ -40,5 +40,5 @@
 
 <ul>
 	<li>With painstaking effort, I was able to create the cards and implemented them accordingly.</li>
-	<li>Since three.js is not part of my tech stack, I had to look for a way to incorporate the globe by using the globe image.</li>
+	<li>Since three.js is not part of my tech stack, I had to look for a way to incorporate the globe by using the globe image and i am willing to learn three.js.</li>
 </ul>
