@@ -490,7 +490,9 @@ Concierge
     font-size: 40px;" id="railybig"> <strong> Your Watch Your <br> Network Grow </strong><br>
         Find your perfect match<br> right on your wrist</p>
 
-    <video src="Smartwatches_1440_web.mp4" id="railybig" autoplay muted></video>
+    <video src="https://azure.raily.app/videos/Smartwatches_1440_web.mp4" id="railybig" autoplay muted>
+        
+    </video>
 
 
 </div>
